@@ -1,0 +1,10 @@
+body{
+    background-color: purple;
+}
+
+.header {
+    height: 25vh;
+    background-color: red;
+    padding: 10px;
+    border: 3px springgreen;
+}
