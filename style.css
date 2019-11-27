@@ -6,6 +6,7 @@ body{
     ),
     url(media/HD-Desktop-Wallpaper-NBA.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #uppercase{
