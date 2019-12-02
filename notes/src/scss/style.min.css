@@ -1,0 +1,2 @@
+body{background-color:red}.flex-parent{height:60vh;background-color:blue;display:-webkit-box;display:-ms-flexbox;display:flex}.flex-child{height:20vh;background-color:green;margin:10px}#flex-grow{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}
+/*# sourceMappingURL=style.min.css.map */
